@@ -1,0 +1,168 @@
+html{
+    scroll-behavior: smooth;
+}
+
+
+body
+{
+    text-align: center;
+    background-image: linear-gradient(to right bottom, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    background-repeat: no-repeat;
+    size: 100%;
+    background-size: 100%;
+    color: white;
+
+}
+
+#menu
+{ 
+    margin-bottom: 100px;
+    margin-left: 550px;
+    align-self: center;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.35);
+    width: 25%;
+    height: 60px;
+    border-radius: 90px;
+    color: white;
+    padding-top: 0.1px;
+    padding-bottom: 10px;
+    border: 10px solid gold;
+    position:fixed;
+    
+}
+#menu2
+{
+    float: right;
+    background: rgb(34,193,195);
+background: linear-gradient(150deg, rgba(34,193,195,1) 0%, rgba(133,119,224,1) 50%, rgba(251,45,253,1) 100%);
+width: 150px;
+    border-radius: 20px;
+    position: fixed;
+    border: 10px dotted red;
+}
+li{
+    font-weight: bolder;
+    font-size: 27px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    display: inline-block;
+    
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover
+{
+
+    background-color: aquamarine;
+}
+#heading
+{
+    font-weight: bolder;
+}
+#fishhome
+{
+    height: 500px;
+    border-radius: 90px;
+    box-shadow: 40px 40px 25px 0 rgba(0, 0, 0, 0.35), 0 6px 20px 0 rgba(0, 0, 0, 0.35); 
+    border: 5px solid white;
+}
+h2{
+    font-weight: bolder;
+    font-family: Bruno Ace SC;
+    font-size: 59px;
+}
+.bettaimg
+{
+    border-radius: 70px;
+    border: 10px solid rgba(255, 255, 255, 0.35);
+    align-self: left;
+
+}
+#bettainfo
+{
+    background-color: black;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: poppins;
+    width: 70%;
+    height: 290px;
+    text-align: center;
+    padding-top: 50px;
+    border-radius: 70px;
+    border: 5px solid gold;
+    
+}
+#bettainfo2
+{
+    background-color: black;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: poppins;
+    width: 70%;
+    height: 400px;
+    text-align: center;
+    padding-top: 50px;
+    border-radius: 70px;
+    border: 5px solid gold;
+}
+#bettainfo3
+{
+    background-color: black;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: poppins;
+    width: 70%;
+    height: 700px;
+    text-align: center;
+    padding-top: 50px;
+    border-radius: 70px;
+    border: 5px solid gold;
+}
+#bettainfo4
+{
+    background-color: black;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: poppins;
+    width: 70%;
+    height: 500px;
+    text-align: center;
+    padding-top: 50px;
+    border-radius: 70px;
+    border: 5px solid gold;
+}
+#bettainfo5
+{
+    background-color: black;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: poppins;
+    width: 70%;
+    height: 700px;
+    text-align: center;
+    padding-top: 50px;
+    border-radius: 70px;
+    border: 5px solid gold;
+}
+#bettainfo6
+{
+    background-color: black;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: poppins;
+    width: 70%;
+    height: 550px;
+    text-align: center;
+    padding-top: 50px;
+    border-radius: 70px;
+    border: 5px solid gold;
+}
+
+
+
